@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 300vh;
+    width: 98.50%;
+    background-image: url('back.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    border: 10px ridge greenyellow;
+
+}
+
+.background {
+    height: auto;
+    width: 98.50%;
+    display: flex;
+}
+
+.div1 {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    border: 5px solid brown;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.div2 {
+    height: 22px;
+    width: 300px;
+    background-color: black;
+    border: 5px solid brown;
+    color: white;
+    margin-top: 28px;
+    margin-left: -112px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+
+.div3 {
+    height: 80px;
+    width: 200px;
+    background-color: black;
+    border: 5px solid brown;
+    color: white;
+    margin-top: 20px;
+    margin-left: 430px;
+    border-radius: 25px;
+    padding: 10px;
+    padding-left: 40px;
+    line-height: 1.8;
+}
+
+.main {
+    height: auto;
+    width: 400px;
+    display: flex;
+    background-color: white;
+    border: 5px dashed red;
+    margin-left: 600px;
+    margin-top: -600px;
+    text-align: center;
+}
+.heading
+{
+    color: crimson;
+}
+label{
+    color: crimson;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+::placeholder {
+    text-align: center;
+}
+
+#date {
+    width: 160px;
+}
+
+.menu {
+    color: white;
+    width: 150px;
+    background-color: #000000;
+    border: 2px solid brown;
+    padding: 10px 100px;
+    text-align: center;
+    border-radius: 25px;
+    margin-left: 450px;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 00px;
+   
+}
+
+.div5 {
+    height: 200px;
+    width: 240px;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border-radius: 25px;
+    border: 3px solid green;
+    padding: 20px;
+    padding-left: px;
+}
+
+.div6 {
+    height: 200px;
+    width: 240px;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border-radius: 25px;
+    border: 3px solid green;
+    padding: 20px;
+    padding-left: 25px;
+}
+
+.div7 {
+    height: 200px;
+    width: 240px;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border-radius: 25px;
+    border: 3px solid green;
+    padding: 20px;
+    padding-left: 25px;
+}
+
+.div8 {
+    height: 200px;
+    width: 240px;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border-radius: 25px;
+    border: 3px solid green;
+    padding: 20px;
+    padding-left: 25px;
+}
+
+.div9 {
+    height: 200px;
+    width: 240px;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border-radius: 25px;
+    border: 3px solid green;
+    padding: 20px;
+    padding-left: 25px;
+}
+
+.div10{
+    height: 225px;
+    width: 240px;
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    border-radius: 25px;
+    border: 3px solid green;
+    padding: 20px;
+    padding-left: 25px;
+}
+.a1{
+    margin-top: px;
+}
+.circle{
+    border: 10px solid gray;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    background-color: #66cdaa;
+    position: relative;
+    margin-top: 250px;
+    margin-left: 30px;
+
+}
+.content{
+    position: absolute;
+    width: 400px;
+    height: auto;
+    top: 25%;
+    left: 0%;
+    text-align: center;
+    padding: auto;
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: underline;
+}
